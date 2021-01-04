@@ -1,0 +1,89 @@
+#testimonials{
+background-color: #fff;
+font-size: 5rem;
+align-items: center;
+text-align: center;
+position: relative;
+color: #000; 
+}
+#Title{
+  font-family: "Montserrat-bold";
+  color: #fff;
+  background-color: #fc684e;
+  font-size: 7rem;
+  padding: 20px;
+  position: relative;
+  text-align: center;
+}
+h1{
+  font-weight: bolder;
+  padding: 20px 0px;
+  font-size: 5rem;
+}
+
+.phone-pic{
+  width: 450px;
+  transform: rotate(25deg);
+  padding-top: 100px;
+  padding-left: 100px;
+}
+.btn{
+  padding-left: 50px;
+  text-align: center;
+  align-items: center;
+}
+h3{
+  font-family: "Roboto";
+  font-size: 0.6em;
+}
+h6{
+  font-family: "Redressed";
+  font-size: 0.5em;
+
+
+}
+
+
+
+
+
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonial-images{
+  width: 10%;
+  border-radius: 100%;}
+
+
+
+#Pricing{
+  background-color: #fc684e;
+  text-align: center;
+  padding: 30px 70px;
+  font-family: "Roboto";
+
+
+}
+.price-heading{
+background-color: #000;
+color: #fff;
+}
+.card{
+  background-color: #fc684e;
+
+}
+
+}
+.pricing-table{
+  padding-left:
+
+}
+@media ( max-width:900px){
+  #Title{
+text-align: center;
+  }
+  .phone-pic{
+    transform: rotate(0);
+  }
+
+}
